@@ -1,0 +1,3 @@
+while x may, it does not necessarilly follow that y
+whether x actually leads to y depends largely on z
+x can not simply be reduced to y
